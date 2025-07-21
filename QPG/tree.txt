@@ -1,0 +1,19 @@
+QPG/
+├── setup.py
+├── README.md
+├── requirements.txt
+├── qgp/
+│   ├── __init__.py
+│   ├── cli.py
+│   ├── keys.py
+│   ├── postquantum.py
+│   ├── handshake.py
+│   ├── encrypt.py
+│   ├── decrypt.py
+│   ├── revocation.py
+│   ├── ratchet.py
+│   └── utils.py
+├── examples/
+│   └── simple_chat.py
+└── tests/
+    └── test_handshake.py
