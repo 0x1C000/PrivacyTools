@@ -2,7 +2,7 @@
 
 **Privacy-focused tools.**  
 For now, this repo ships a single Windows 10/11 script: an **anti-Bitcoin-miner** detector/remover.  
-Codename: **annaqualo**.
+
 
 ---
 
